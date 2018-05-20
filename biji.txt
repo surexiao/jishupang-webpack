@@ -1,3 +1,5 @@
-µÚ02½Ú£ºÈÃÄã¿ìËÙÉÏÊÖÒ»¸öDemo
+ç¬¬02èŠ‚ï¼šè®©ä½ å¿«é€Ÿä¸Šæ‰‹ä¸€ä¸ªDemo
 cnpm install
 webpack src/entry.js dist/bundle.js
+ç¬¬03èŠ‚ï¼šé…ç½®æ–‡ä»¶ï¼šå…¥å£å’Œå‡ºå£
+webpack
