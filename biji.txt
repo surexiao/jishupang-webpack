@@ -1,0 +1,3 @@
+第02节：让你快速上手一个Demo
+cnpm install
+webpack src/entry.js dist/bundle.js
